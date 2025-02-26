@@ -1,0 +1,40 @@
+# Ignore environment files
+.env
+.env.*
+
+# Ignore CI/CD workflows (optional, remove if needed)
+.github/
+
+# Ignore dependency directories
+node_modules/
+vendor/
+
+# Ignore storage and cache
+storage/
+bootstrap/cache/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# Ignore compiled assets
+public/storage
+public/hot
+public/build
+
+# Ignore test coverage reports
+coverage/
+
+# Ignore editor-specific files
+.idea/
+.vscode/
+
+# Ignore lock files (optional)
+yarn.lock
+pnpm-lock.yaml
