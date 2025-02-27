@@ -54,7 +54,7 @@
                             <div>Thank you! Your submission has been received!</div>
                         </div>
                         <div class="error-message w-form-fail">
-                            <div>Oops! Something went wrong while submitting the form.</div>
+                            <div>Oops! Something went wrong while submitting the form</div>
                         </div>
                     </div>
                 </div>
