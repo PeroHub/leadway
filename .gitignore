@@ -10,7 +10,6 @@ node_modules/
 vendor/
 
 # Ignore storage and cache
-storage/
 bootstrap/cache/
 
 # Ignore system files
@@ -24,9 +23,7 @@ yarn-error.log
 pnpm-debug.log
 
 # Ignore compiled assets
-public/storage
 public/hot
-public/build
 
 # Ignore test coverage reports
 coverage/

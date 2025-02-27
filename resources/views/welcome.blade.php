@@ -293,6 +293,7 @@
         @endif
     </head>
     <body>
+		<x-navigation-menu></x-navigation-menu>
 
   
 	<div class="chat-widget">
@@ -467,13 +468,13 @@
 </a>
 
 	<div class="banner-section-photo">
-		<div data-w-id="cc582f0b-75ba-d7bd-9fe3-5b2888ed64e5" style="opacity:0" class="banner-content-container">
-			<h1 data-w-id="cc582f0b-75ba-d7bd-9fe3-5b2888ed64e6" style="opacity:0" class="home-title">Your Gateway to a Seamless Immigration</h1>
-			<p data-w-id="cc582f0b-75ba-d7bd-9fe3-5b2888ed64e8" style="opacity:0" class="home-main-banner-discription">We're here to guide you every step of the way. Our experienced team of experts is dedicated to making your journey to a new country as smooth and stress-free as possible.</p>
-			<div data-w-id="cc582f0b-75ba-d7bd-9fe3-5b2888ed64ea" style="opacity:0" class="buttons-wrapper"><a href="/apply" class="primary-button w-button">Start Application</a></div>
+		<div data-w-id="cc582f0b-75ba-d7bd-9fe3-5b2888ed64e5" style="opacity:1" class="banner-content-container">
+			<h1 data-w-id="cc582f0b-75ba-d7bd-9fe3-5b2888ed64e6" style="opacity:1" class="home-title">Your Gateway to a Seamless Immigration</h1>
+			<p data-w-id="cc582f0b-75ba-d7bd-9fe3-5b2888ed64e8" style="opacity:1" class="home-main-banner-discription">We're here to guide you every step of the way. Our experienced team of experts is dedicated to making your journey to a new country as smooth and stress-free as possible.</p>
+			<div data-w-id="cc582f0b-75ba-d7bd-9fe3-5b2888ed64ea" style="opacity:1" class="buttons-wrapper"><a href="/apply" class="primary-button w-button">Start Application</a></div>
 		</div>
 		<div class="banner-numbers-wrapper">
-			<div data-w-id="26438732-168a-0ab6-1fa0-8136b2be6fd3" style="opacity:0" class="w-layout-grid working-numbers">
+			<div data-w-id="26438732-168a-0ab6-1fa0-8136b2be6fd3" style="opacity:1" class="w-layout-grid working-numbers">
 				<div id="w-node-_26438732-168a-0ab6-1fa0-8136b2be6fd4-296c1808" class="working-wrap">
 					<div class="numbers">15+</div>
 					<div class="numbers-text">Years of experience</div>
@@ -501,14 +502,14 @@
 
 
 
-			<div data-w-id="79dde125-9563-15e5-e4b5-3cc61529d4ee" style="opacity:0" class="two-column-wrapper">
+			<div data-w-id="79dde125-9563-15e5-e4b5-3cc61529d4ee" style="opacity:1" class="two-column-wrapper">
 
 
-				<div data-w-id="79dde125-9563-15e5-e4b5-3cc61529d4ef" style="opacity:0" class="column-two">
+				<div data-w-id="79dde125-9563-15e5-e4b5-3cc61529d4ef" style="opacity:1" class="column-two">
 
 
 
-					<div data-w-id="d7fad506-dc1b-9a2d-881c-c66be3dfdf24" style="opacity:0" class="subtitle-text">Visa Solutions</div>
+					<div data-w-id="d7fad506-dc1b-9a2d-881c-c66be3dfdf24" style="opacity:1" class="subtitle-text">Visa Solutions</div>
 					<h2 class="in-section-title">Citizenship By Investment</h2>
 					<p class="no-margin">Citizenship by investment (CBI) is a program offered by certain countries that allows foreign individuals to acquire citizenship in exchange for a significant investment in the host country. These programs are designed to attract foreign capital, stimulate economic development, and enhance international relations.</p>
 					<div class="button-wrapper"><a href="/investment" class="primary-button dark w-button">Explore more</a>
@@ -518,50 +519,50 @@
 						</div>
 					</div>
 				</div>
-				<div data-w-id="79dde125-9563-15e5-e4b5-3cc61529d4fc" style="opacity:0" class="column-one"><img src="https://cdn.prod.website-files.com/651f2c08c5bd81eb296c17aa/652844c535ce8f641b2876fb_pexels-andrea-piacquadio-3764021.webp" loading="lazy" sizes="(max-width: 479px) 94vw, (max-width: 767px) 96vw, (max-width: 991px) 97vw, (max-width: 1279px) 45vw, (max-width: 1919px) 535px, 635px" srcset="https://cdn.prod.website-files.com/651f2c08c5bd81eb296c17aa/652844c535ce8f641b2876fb_pexels-andrea-piacquadio-3764021-p-500.webp 500w, https://cdn.prod.website-files.com/651f2c08c5bd81eb296c17aa/652844c535ce8f641b2876fb_pexels-andrea-piacquadio-3764021.webp 640w" alt="Photo" class="about-block-image" /></div>
+				<div data-w-id="79dde125-9563-15e5-e4b5-3cc61529d4fc" style="opacity:1" class="column-one"><img src="https://cdn.prod.website-files.com/651f2c08c5bd81eb296c17aa/652844c535ce8f641b2876fb_pexels-andrea-piacquadio-3764021.webp" loading="lazy" sizes="(max-width: 479px) 94vw, (max-width: 767px) 96vw, (max-width: 991px) 97vw, (max-width: 1279px) 45vw, (max-width: 1919px) 535px, 635px" srcset="https://cdn.prod.website-files.com/651f2c08c5bd81eb296c17aa/652844c535ce8f641b2876fb_pexels-andrea-piacquadio-3764021-p-500.webp 500w, https://cdn.prod.website-files.com/651f2c08c5bd81eb296c17aa/652844c535ce8f641b2876fb_pexels-andrea-piacquadio-3764021.webp 640w" alt="Photo" class="about-block-image" /></div>
 			</div>
 		</div>
 	</div>
 	<div class="section dark-bg-with-elements">
-		<div data-w-id="d03afa7b-178b-130c-5474-5296fe619760" style="opacity:0" class="base-container w-container">
+		<div data-w-id="d03afa7b-178b-130c-5474-5296fe619760" style="opacity:1" class="base-container w-container">
 			<div class="span-quote-wrapper">
-				<div data-w-id="7169aa2b-55fc-4524-9433-39e5d34a5bd6" style="opacity:0" class="subtitle-text">Are you eligible? Check now.</div>
-				<h2 data-w-id="bc3d9571-f863-4bdb-631d-2c62440fb61f" style="opacity:0" class="span-quote">Our experienced team of immigration experts is dedicated to making your journey to a new country as smooth and stress-free as possible.</h2>
+				<div data-w-id="7169aa2b-55fc-4524-9433-39e5d34a5bd6" style="opacity:1" class="subtitle-text">Are you eligible? Check now.</div>
+				<h2 data-w-id="bc3d9571-f863-4bdb-631d-2c62440fb61f" style="opacity:1" class="span-quote">Our experienced team of immigration experts is dedicated to making your journey to a new country as smooth and stress-free as possible.</h2>
 			</div>
-			<div data-w-id="16fe514a-4a9c-44f4-3823-0768316358ec" style="opacity:0" class="buttons-wrapper"><a href="/about" class="primary-button w-button">Check Eligibility</a></div>
+			<div data-w-id="16fe514a-4a9c-44f4-3823-0768316358ec" style="opacity:1" class="buttons-wrapper"><a href="/about" class="primary-button w-button">Check Eligibility</a></div>
 		</div>
 	</div>
-	<div class="section without-bottom-spacing"><div class="base-container w-container"><div class="w-layout-grid work-coach"><div id="w-node-e423d1b1-02c4-b0d6-9039-82433fcc6667-296c1808" data-w-id="e423d1b1-02c4-b0d6-9039-82433fcc6667" style="opacity: 0;"><h2 data-w-id="e423d1b1-02c4-b0d6-9039-82433fcc6669" style="opacity: 0;" class="in-section-title">Core Services</h2><p data-w-id="e423d1b1-02c4-b0d6-9039-82433fcc666b" style="opacity: 0;" class="services-description">Contact us to schedule a consultation and take the first step toward making your dream of living in a new country a reality.</p><div data-w-id="9b9dd8e4-aa48-b210-245b-5519631af685" style="opacity: 0;" class="button-wrapper"><a href="/services" class="primary-button dark">Explore all</a></div></div><div id="w-node-_65a662c7-04b5-15a4-72a0-b5b3fdf07eaf-296c1808" class="collection-list-wrapper-services w-dyn-list"><div role="list" class="collection-list-services w-dyn-items"><div role="listitem" class="collection-item-services w-dyn-item"><div data-w-id="65a662c7-04b5-15a4-72a0-b5b3fdf07eb2" style="background-image: url(&quot;https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/652ea6d6583f67a8de3fa46e_pexels-keira-burton-6146978.jpg&quot;); opacity: 0;" class="work-wrapper"><img loading="lazy" src="https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/652db2fc45a71830e136ff99_fi_3022243.svg" alt="" class="icon-work"><a href="/visa/temporary-visa" class="w-inline-block"><h5 class="services-titles">Temporary Visa</h5></a><p class="service-item-description">From filling out application forms to gathering supporting documents, we assist you in completing the visa application accurately</p><div class="button-wrapper smaller-spacing"><a href="/visa/temporary-visa" class="link-with-arrow-underline white-style">Learn more</a></div><div class="dark-overlay"></div></div></div></div></div><div id="w-node-_5d7f81dd-3082-2010-06ea-60427df78cf2-296c1808" class="collection-list-wrapper-services w-dyn-list"><div role="list" class="collection-list-services w-dyn-items"><div role="listitem" class="collection-item-services w-dyn-item"><div data-w-id="5d7f81dd-3082-2010-06ea-60427df78cf5" style="background-image: url(&quot;https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/65286fb263f107046ea7900e_nicole-geri-gMJ3tFOLvnA-unsplash.jpg&quot;); opacity: 0;" class="work-wrapper"><img loading="lazy" src="https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/6528915357f15ad2b94de740_visa.svg" alt="" class="icon-work"><a href="/visa/study-visa" class="w-inline-block"><h5 class="services-titles">Study Visa Application</h5></a><p class="service-item-description">From filling out application forms to gathering supporting documents, we assist you in completing the visa application accurately</p><div class="button-wrapper smaller-spacing"><a href="/visa/study-visa" class="link-with-arrow-underline white-style">Learn more</a></div><div class="dark-overlay"></div></div></div></div></div><div id="w-node-_7c5488ea-0d30-2f2e-a337-1d3df6b31c42-296c1808" class="collection-list-wrapper-services w-dyn-list"><div role="list" class="collection-list-services w-dyn-items"><div role="listitem" class="collection-item-services w-dyn-item"><div data-w-id="7c5488ea-0d30-2f2e-a337-1d3df6b31c45" style="background-image: url(&quot;https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/652891bd3236320ae1f0b84c_pexels-oleksandr-p-1008155.jpg&quot;); opacity: 0;" class="work-wrapper"><img loading="lazy" src="https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/6528916057f15ad2b94df35b_relocation.svg" alt="" class="icon-work"><a href="/visa/investment-visa" class="w-inline-block"><h5 class="services-titles">Citizenship through Investment</h5></a><p class="service-item-description">Investing in a second citizenship can offer various benefits, including better global mobility, a Plan B for the family, better quality of life and businesses opportunities among many more.</p><div class="button-wrapper smaller-spacing"><a href="/visa/investment-visa" class="link-with-arrow-underline white-style">Learn more</a></div><div class="dark-overlay"></div></div></div></div></div>
+	<div class="section without-bottom-spacing"><div class="base-container w-container"><div class="w-layout-grid work-coach"><div id="w-node-e423d1b1-02c4-b0d6-9039-82433fcc6667-296c1808" data-w-id="e423d1b1-02c4-b0d6-9039-82433fcc6667" style="opacity: 1;"><h2 data-w-id="e423d1b1-02c4-b0d6-9039-82433fcc6669" style="opacity: 1;" class="in-section-title">Core Services</h2><p data-w-id="e423d1b1-02c4-b0d6-9039-82433fcc666b" style="opacity: 1;" class="services-description">Contact us to schedule a consultation and take the first step toward making your dream of living in a new country a reality.</p><div data-w-id="9b9dd8e4-aa48-b210-245b-5519631af685" style="opacity: 1;" class="button-wrapper"><a href="/services" class="primary-button dark">Explore all</a></div></div><div id="w-node-_65a662c7-04b5-15a4-72a0-b5b3fdf07eaf-296c1808" class="collection-list-wrapper-services w-dyn-list"><div role="list" class="collection-list-services w-dyn-items"><div role="listitem" class="collection-item-services w-dyn-item"><div data-w-id="65a662c7-04b5-15a4-72a0-b5b3fdf07eb2" style="background-image: url(&quot;https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/652ea6d6583f67a8de3fa46e_pexels-keira-burton-6146978.jpg&quot;); opacity: 1;" class="work-wrapper"><img loading="lazy" src="https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/652db2fc45a71830e136ff99_fi_3022243.svg" alt="" class="icon-work"><a href="/visa/temporary-visa" class="w-inline-block"><h5 class="services-titles">Temporary Visa</h5></a><p class="service-item-description">From filling out application forms to gathering supporting documents, we assist you in completing the visa application accurately</p><div class="button-wrapper smaller-spacing"><a href="/visa/temporary-visa" class="link-with-arrow-underline white-style">Learn more</a></div><div class="dark-overlay"></div></div></div></div></div><div id="w-node-_5d7f81dd-3082-2010-06ea-60427df78cf2-296c1808" class="collection-list-wrapper-services w-dyn-list"><div role="list" class="collection-list-services w-dyn-items"><div role="listitem" class="collection-item-services w-dyn-item"><div data-w-id="5d7f81dd-3082-2010-06ea-60427df78cf5" style="background-image: url(&quot;https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/65286fb263f107046ea7900e_nicole-geri-gMJ3tFOLvnA-unsplash.jpg&quot;); opacity: 1;" class="work-wrapper"><img loading="lazy" src="https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/6528915357f15ad2b94de740_visa.svg" alt="" class="icon-work"><a href="/visa/study-visa" class="w-inline-block"><h5 class="services-titles">Study Visa Application</h5></a><p class="service-item-description">From filling out application forms to gathering supporting documents, we assist you in completing the visa application accurately</p><div class="button-wrapper smaller-spacing"><a href="/visa/study-visa" class="link-with-arrow-underline white-style">Learn more</a></div><div class="dark-overlay"></div></div></div></div></div><div id="w-node-_7c5488ea-0d30-2f2e-a337-1d3df6b31c42-296c1808" class="collection-list-wrapper-services w-dyn-list"><div role="list" class="collection-list-services w-dyn-items"><div role="listitem" class="collection-item-services w-dyn-item"><div data-w-id="7c5488ea-0d30-2f2e-a337-1d3df6b31c45" style="background-image: url(&quot;https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/652891bd3236320ae1f0b84c_pexels-oleksandr-p-1008155.jpg&quot;); opacity: 1;" class="work-wrapper"><img loading="lazy" src="https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/6528916057f15ad2b94df35b_relocation.svg" alt="" class="icon-work"><a href="#" class="w-inline-block"><h5 class="services-titles">Citizenship through Investment</h5></a><p class="service-item-description">Investing in a second citizenship can offer various benefits, including better global mobility, a Plan B for the family, better quality of life and businesses opportunities among many more.</p><div class="button-wrapper smaller-spacing"><a href="/visa/investment-visa" class="link-with-arrow-underline white-style">Learn more</a></div><div class="dark-overlay"></div></div></div></div></div>
 	
 	
-	<div id="w-node-fb7b6a25-057e-7357-a393-8453d9c0ef32-296c1808" class="collection-list-wrapper-services w-dyn-list"><div role="list" class="collection-list-services w-dyn-items"><div role="listitem" class="collection-item-services w-dyn-item"><div data-w-id="fb7b6a25-057e-7357-a393-8453d9c0ef35" style="background-image: url(&quot;https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/652891e0a6170d2717dd7e55_pexels-vlada-karpovich-7368310.jpg&quot;); opacity: 0;" class="work-wrapper"><img loading="lazy" src="https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/652891689ec9911fdd305464_immigration.svg" alt="" class="icon-work"><a href="/visa/work-visa" class="w-inline-block"><h5 class="services-titles">Work Visa</h5></a><p class="service-item-description">We create personalized immigration strategies that align with your long-term objectives, considering different factors</p><div class="button-wrapper smaller-spacing"><a href="/visa/work-visa" class="link-with-arrow-underline white-style">Learn more</a></div><div class="dark-overlay"></div></div></div></div></div>
+	<div id="w-node-fb7b6a25-057e-7357-a393-8453d9c0ef32-296c1808" class="collection-list-wrapper-services w-dyn-list"><div role="list" class="collection-list-services w-dyn-items"><div role="listitem" class="collection-item-services w-dyn-item"><div data-w-id="fb7b6a25-057e-7357-a393-8453d9c0ef35" style="background-image: url(&quot;https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/652891e0a6170d2717dd7e55_pexels-vlada-karpovich-7368310.jpg&quot;); opacity: 1;" class="work-wrapper"><img loading="lazy" src="https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/652891689ec9911fdd305464_immigration.svg" alt="" class="icon-work"><a href="/visa/work-visa" class="w-inline-block"><h5 class="services-titles">Work Visa</h5></a><p class="service-item-description">We create personalized immigration strategies that align with your long-term objectives, considering different factors</p><div class="button-wrapper smaller-spacing"><a href="/visa/work-visa" class="link-with-arrow-underline white-style">Learn more</a></div><div class="dark-overlay"></div></div></div></div></div>
 
 
-<div id="w-node-fb7b6a25-057e-7357-a393-8453d9c0ef32-296c1808" class="collection-list-wrapper-services w-dyn-list"><div role="list" class="collection-list-services w-dyn-items"><div role="listitem" class="collection-item-services w-dyn-item"><div data-w-id="fb7b6a25-057e-7357-a393-8453d9c0ef35" style="background-image: url(&quot;https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/652d84ffc6c49e94d80bf51b_pexels-anaid-alca%CC%81ntara-mora%CC%81n-12334457.jpg&quot;); opacity: 0;" class="work-wrapper"><img loading="lazy" src="https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/652891689ec9911fdd305464_immigration.svg" alt="" class="icon-work"><a href="/visa/family-visa" class="w-inline-block"><h5 class="services-titles">Family Visa</h5></a><p class="service-item-description">Ready to reunite with your family and create lasting memories? Contact our team of experts to assist you with the family visa application process and bring your family closer than ever.</p><div class="button-wrapper smaller-spacing"><a href="/visa/work-visa" class="link-with-arrow-underline white-style">Learn more</a></div><div class="dark-overlay"></div></div></div></div></div>
+<div id="w-node-fb7b6a25-057e-7357-a393-8453d9c0ef32-296c1808" class="collection-list-wrapper-services w-dyn-list"><div role="list" class="collection-list-services w-dyn-items"><div role="listitem" class="collection-item-services w-dyn-item"><div data-w-id="fb7b6a25-057e-7357-a393-8453d9c0ef35" style="background-image: url(&quot;https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/652d84ffc6c49e94d80bf51b_pexels-anaid-alca%CC%81ntara-mora%CC%81n-12334457.jpg&quot;); opacity: 1;" class="work-wrapper"><img loading="lazy" src="https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/652891689ec9911fdd305464_immigration.svg" alt="" class="icon-work"><a href="/visa/family-visa" class="w-inline-block"><h5 class="services-titles">Family Visa</h5></a><p class="service-item-description">Ready to reunite with your family and create lasting memories? Contact our team of experts to assist you with the family visa application process and bring your family closer than ever.</p><div class="button-wrapper smaller-spacing"><a href="/visa/work-visa" class="link-with-arrow-underline white-style">Learn more</a></div><div class="dark-overlay"></div></div></div></div></div>
 
 
-<div id="w-node-bf82eb32-4ca6-1452-57f4-b6426d6d6968-296c1808" class="collection-list-wrapper-services w-dyn-list"><div role="list" class="collection-list-services w-dyn-items"><div role="listitem" class="collection-item-services w-dyn-item"><div data-w-id="bf82eb32-4ca6-1452-57f4-b6426d6d696b" style="background-image: url(&quot;https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/652892299ec9911fdd311500_pexels-cytonn-photography-955389.jpg&quot;); opacity: 0;" class="work-wrapper"><img loading="lazy" src="https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/65289172057200ddd4f42749_documents.svg" alt="" class="icon-work"><a href="/visa/permanent-visa" class="w-inline-block"><h5 class="services-titles">Permanent Resident</h5></a><p class="service-item-description">Our team meticulously reviews all your documents to ensure they meet the specific requirements of the immigration authorities</p><div class="button-wrapper smaller-spacing"><a href="/visa/permanent-visa" class="link-with-arrow-underline white-style">Learn more</a></div><div class="dark-overlay"></div></div></div></div></div></div></div></div>
+<div id="w-node-bf82eb32-4ca6-1452-57f4-b6426d6d6968-296c1808" class="collection-list-wrapper-services w-dyn-list"><div role="list" class="collection-list-services w-dyn-items"><div role="listitem" class="collection-item-services w-dyn-item"><div data-w-id="bf82eb32-4ca6-1452-57f4-b6426d6d696b" style="background-image: url(&quot;https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/652892299ec9911fdd311500_pexels-cytonn-photography-955389.jpg&quot;); opacity: 1;" class="work-wrapper"><img loading="lazy" src="https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/65289172057200ddd4f42749_documents.svg" alt="" class="icon-work"><a href="/visa/permanent-visa" class="w-inline-block"><h5 class="services-titles">Permanent Resident</h5></a><p class="service-item-description">Our team meticulously reviews all your documents to ensure they meet the specific requirements of the immigration authorities</p><div class="button-wrapper smaller-spacing"><a href="/visa/permanent-visa" class="link-with-arrow-underline white-style">Learn more</a></div><div class="dark-overlay"></div></div></div></div></div></div></div></div>
 
 
 	<div class="section">
 		<div class="base-container w-container">
 			<div class="w-layout-grid advantages-wrapper">
 				<div id="w-node-c651ba22-4432-547d-7cd0-369831cf9fba-296c1808" class="left-advatages-content">
-					<div data-w-id="c651ba22-4432-547d-7cd0-369831cf9fbb" style="opacity:0" class="advantages-wrap">
+					<div data-w-id="c651ba22-4432-547d-7cd0-369831cf9fbb" style="opacity:1" class="advantages-wrap">
 						<div class="heading-advantages">
 							<h5>Initial Consultation and Assessment</h5>
 							<div class="number">01</div>
 						</div>
 						<p class="small-paragraph _w-95">Our experienced team of immigration experts is dedicated to making your journey to a new country stress-free.<br /></p>
 					</div>
-					<div data-w-id="c651ba22-4432-547d-7cd0-369831cf9fc3" style="opacity:0" class="advantages-wrap center">
+					<div data-w-id="c651ba22-4432-547d-7cd0-369831cf9fc3" style="opacity:1" class="advantages-wrap center">
 						<div class="heading-advantages">
 							<h5 class="white-text">Personalized Guidance and Support</h5>
 							<div class="number white-text">02</div>
 						</div>
 						<p class="small-paragraph white-w-95">Our experienced team of immigration experts is dedicated to making your journey to a new country stress-free.<br /></p>
 					</div>
-					<div data-w-id="c651ba22-4432-547d-7cd0-369831cf9fcb" style="opacity:0" class="advantages-wrap">
+					<div data-w-id="c651ba22-4432-547d-7cd0-369831cf9fcb" style="opacity:1" class="advantages-wrap">
 						<div class="heading-advantages">
 							<h5>Ongoing Follow-Up and Assistance</h5>
 							<div class="number">03</div>
@@ -570,10 +571,10 @@
 					</div>
 				</div>
 				<div id="w-node-c651ba22-4432-547d-7cd0-369831cf9fd3-296c1808" class="right-advantages-content">
-					<div data-w-id="c651ba22-4432-547d-7cd0-369831cf9fd4" style="opacity:0" class="subtitle-text">Advantages</div>
-					<h2 data-w-id="c651ba22-4432-547d-7cd0-369831cf9fd6" style="opacity:0" class="in-section-title">Ready to embark on your journey?</h2>
-					<p data-w-id="c651ba22-4432-547d-7cd0-369831cf9fd8" style="opacity:0">We provide comprehensive consultations to help you determine the most suitable visa option based on your unique circumstances and goals. Our experts will assess your eligibility and guide you through the necessary requirements.<br /></p>
-					<div data-w-id="c651ba22-4432-547d-7cd0-369831cf9fda" style="opacity:0" class="button-wrapper"><a href="/contact-us-1" class="primary-button dark">Get a Free Consultation</a></div>
+					<div data-w-id="c651ba22-4432-547d-7cd0-369831cf9fd4" style="opacity:1" class="subtitle-text">Advantages</div>
+					<h2 data-w-id="c651ba22-4432-547d-7cd0-369831cf9fd6" style="opacity:1" class="in-section-title">Ready to embark on your journey?</h2>
+					<p data-w-id="c651ba22-4432-547d-7cd0-369831cf9fd8" style="opacity:1">We provide comprehensive consultations to help you determine the most suitable visa option based on your unique circumstances and goals. Our experts will assess your eligibility and guide you through the necessary requirements.<br /></p>
+					<div data-w-id="c651ba22-4432-547d-7cd0-369831cf9fda" style="opacity:1" class="button-wrapper"><a href="/contact-us-1" class="primary-button dark">Get a Free Consultation</a></div>
 				</div>
 			</div>
 		</div>
@@ -587,13 +588,13 @@
 	
 	
 	
-	<section><a href="#" data-w-id="c73a01a8-5d91-43b1-39f4-ccd8101f27e3" style="opacity:0" class="video-big w-inline-block w-lightbox">
-			<div data-w-id="c73a01a8-5d91-43b1-39f4-ccd8101f27e4" style="opacity:0" class="video-content-wrapper">
-				<div data-w-id="c73a01a8-5d91-43b1-39f4-ccd8101f27e5" style="opacity:0" class="video-content">
+	<section><a href="#" data-w-id="c73a01a8-5d91-43b1-39f4-ccd8101f27e3" style="opacity:1" class="video-big w-inline-block w-lightbox">
+			<div data-w-id="c73a01a8-5d91-43b1-39f4-ccd8101f27e4" style="opacity:1" class="video-content-wrapper">
+				<div data-w-id="c73a01a8-5d91-43b1-39f4-ccd8101f27e5" style="opacity:1" class="video-content">
 					<h2 class="in-section-title text-white">guiding your every step</h2>
 					<p class="text-white">Our experienced team of immigration experts is dedicated to making your journey to a new country as smooth and stress-free as possible. Your trusted partner in this exciting venture.</p>
 				</div>
-				<div data-w-id="c73a01a8-5d91-43b1-39f4-ccd8101f27ea" style="opacity:0" class="video-button-wrapper">
+				<div data-w-id="c73a01a8-5d91-43b1-39f4-ccd8101f27ea" style="opacity:1" class="video-button-wrapper">
 					<div href="#" data-w-id="c73a01a8-5d91-43b1-39f4-ccd8101f27eb" class="btn-circle-big">
 						<div class="clip">
 							<div style="-webkit-transform:translate3d(0%, null, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0%, null, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0%, null, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0%, null, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="button-icon"><img src="https://cdn.prod.website-files.com/651f2c08c5bd81eb296c17aa/6526bde578717103f92b5b9a_play-icon.svg" loading="lazy" alt="icon" class="icon-bottom big" /></div>
@@ -627,7 +628,7 @@
 
 
 		
-			<h2 data-w-id="c651ba22-4432-547d-7cd0-369831cf9fd6" style="margin-right: auto; margin-left: 30px;margin-top: 20px;opacity:0" class="in-section-title">Sponsors</h2>
+			<h2 data-w-id="c651ba22-4432-547d-7cd0-369831cf9fd6" style="margin-right: auto; margin-left: 30px;margin-top: 20px;opacity:1" class="in-section-title">Sponsors</h2>
 		<div class="centerr">
 		
 
@@ -701,9 +702,9 @@
 	</div>
 	<div class="section without-bottom-spacing">
 		<div class="base-container w-container">
-			<div data-w-id="7b89dfed-5942-06e2-a889-af99f8d53b8d" style="opacity:0" class="countries-block-wrapper">
-				<div data-w-id="7b89dfed-5942-06e2-a889-af99f8d53ba5" style="opacity:0" class="countries-column-one"><img src="https://cdn.prod.website-files.com/651f2c08c5bd81eb296c17aa/65285de130d7cf7ae7de9be8_pexels-andre-furtado-2916826.webp" loading="lazy" sizes="(max-width: 479px) 81vw, (max-width: 767px) 88vw, (max-width: 991px) 91vw, (max-width: 1279px) 36vw, (max-width: 1919px) 441px, 562.5px" srcset="https://cdn.prod.website-files.com/651f2c08c5bd81eb296c17aa/65285de130d7cf7ae7de9be8_pexels-andre-furtado-2916826-p-500.webp 500w, https://cdn.prod.website-files.com/651f2c08c5bd81eb296c17aa/65285de130d7cf7ae7de9be8_pexels-andre-furtado-2916826-p-800.webp 800w, https://cdn.prod.website-files.com/651f2c08c5bd81eb296c17aa/65285de130d7cf7ae7de9be8_pexels-andre-furtado-2916826-p-1080.webp 1080w, https://cdn.prod.website-files.com/651f2c08c5bd81eb296c17aa/65285de130d7cf7ae7de9be8_pexels-andre-furtado-2916826.webp 1280w" alt="Photo" class="countries-block-image" /></div>
-				<div data-w-id="7b89dfed-5942-06e2-a889-af99f8d53b8e" style="opacity:0" class="countries-column-two">
+			<div data-w-id="7b89dfed-5942-06e2-a889-af99f8d53b8d" style="opacity:1" class="countries-block-wrapper">
+				<div data-w-id="7b89dfed-5942-06e2-a889-af99f8d53ba5" style="opacity:1" class="countries-column-one"><img src="https://cdn.prod.website-files.com/651f2c08c5bd81eb296c17aa/65285de130d7cf7ae7de9be8_pexels-andre-furtado-2916826.webp" loading="lazy" sizes="(max-width: 479px) 81vw, (max-width: 767px) 88vw, (max-width: 991px) 91vw, (max-width: 1279px) 36vw, (max-width: 1919px) 441px, 562.5px" srcset="https://cdn.prod.website-files.com/651f2c08c5bd81eb296c17aa/65285de130d7cf7ae7de9be8_pexels-andre-furtado-2916826-p-500.webp 500w, https://cdn.prod.website-files.com/651f2c08c5bd81eb296c17aa/65285de130d7cf7ae7de9be8_pexels-andre-furtado-2916826-p-800.webp 800w, https://cdn.prod.website-files.com/651f2c08c5bd81eb296c17aa/65285de130d7cf7ae7de9be8_pexels-andre-furtado-2916826-p-1080.webp 1080w, https://cdn.prod.website-files.com/651f2c08c5bd81eb296c17aa/65285de130d7cf7ae7de9be8_pexels-andre-furtado-2916826.webp 1280w" alt="Photo" class="countries-block-image" /></div>
+				<div data-w-id="7b89dfed-5942-06e2-a889-af99f8d53b8e" style="opacity:1" class="countries-column-two">
 					<div class="subtitle-text">Countries</div>
 					<h2 class="in-section-title text-white">See The countries supported for immigration<br /></h2>
 					<p class="no-margin text-white">We create personalized immigration strategies that align with your long-term objectives, considering factors such as education, employment, family reunification, or business opportunities in your desired destination.</p>
@@ -809,13 +810,13 @@
 	
 	<div class="section without-bottom-spacing">
 		<div class="base-container w-container">
-			<div data-w-id="e4b01cad-d7fb-7d45-4504-1016bae76010" style="opacity:0" class="section-title-wrapper">
+			<div data-w-id="e4b01cad-d7fb-7d45-4504-1016bae76010" style="opacity:1" class="section-title-wrapper">
 				<h2 class="section-title">Latest news</h2>
 				<p>We're here to guide you every step of the way. Our experienced team of experts is dedicated to making your journey to a new country as smooth and stress-free as possible.</p>
 			</div>
 			<div class="home-blog-collection w-dyn-list">
 				<div role="list" class="home-blog-list w-dyn-items">
-					<div data-w-id="e4b01cad-d7fb-7d45-4504-1016bae76017" style="opacity:0" role="listitem" class="home-blog-item w-dyn-item">
+					<div data-w-id="e4b01cad-d7fb-7d45-4504-1016bae76017" style="opacity:1" role="listitem" class="home-blog-item w-dyn-item">
 						<article class="home-blog-wrapper"><a href="/blog-posts/understanding-immigration-policies" class="home-blog-image w-inline-block"><img src="https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/65285cd1be5ecd0018f1f401_pexels-ketut-subiyanto-4245905.jpg" loading="lazy" alt="photo" sizes="(max-width: 479px) 30vw, (max-width: 1279px) 31vw, (max-width: 1919px) 372.046875px, 435.65625px" srcset="https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/65285cd1be5ecd0018f1f401_pexels-ketut-subiyanto-4245905-p-500.jpg 500w, https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/65285cd1be5ecd0018f1f401_pexels-ketut-subiyanto-4245905-p-800.jpg 800w, https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/65285cd1be5ecd0018f1f401_pexels-ketut-subiyanto-4245905-p-1080.jpg 1080w, https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/65285cd1be5ecd0018f1f401_pexels-ketut-subiyanto-4245905-p-1600.jpg 1600w, https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/65285cd1be5ecd0018f1f401_pexels-ketut-subiyanto-4245905.jpg 1920w" class="blog-grid-image" /></a>
 							<div class="home-blog-content">
 								<div><a href="/blog-posts/understanding-immigration-policies" class="w-inline-block">
@@ -827,7 +828,7 @@
 							</div><a href="/posts-categories/immigration" class="home-blog-category">Immigration</a>
 						</article>
 					</div>
-					<div data-w-id="e4b01cad-d7fb-7d45-4504-1016bae76017" style="opacity:0" role="listitem" class="home-blog-item w-dyn-item">
+					<div data-w-id="e4b01cad-d7fb-7d45-4504-1016bae76017" style="opacity:1" role="listitem" class="home-blog-item w-dyn-item">
 						<article class="home-blog-wrapper"><a href="/blog-posts/smooth-visa-application-process" class="home-blog-image w-inline-block"><img src="https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/65285c8e35e6881190af2574_pexels-dominika-roseclay-1252500.jpg" loading="lazy" alt="photo" sizes="(max-width: 479px) 30vw, (max-width: 1279px) 31vw, (max-width: 1919px) 372.046875px, 435.65625px" srcset="https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/65285c8e35e6881190af2574_pexels-dominika-roseclay-1252500-p-500.jpg 500w, https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/65285c8e35e6881190af2574_pexels-dominika-roseclay-1252500-p-800.jpg 800w, https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/65285c8e35e6881190af2574_pexels-dominika-roseclay-1252500-p-1080.jpg 1080w, https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/65285c8e35e6881190af2574_pexels-dominika-roseclay-1252500-p-1600.jpg 1600w, https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/65285c8e35e6881190af2574_pexels-dominika-roseclay-1252500.jpg 1920w" class="blog-grid-image" /></a>
 							<div class="home-blog-content">
 								<div><a href="/blog-posts/smooth-visa-application-process" class="w-inline-block">
@@ -839,7 +840,7 @@
 							</div><a href="/posts-categories/visa" class="home-blog-category">Visa</a>
 						</article>
 					</div>
-					<div data-w-id="e4b01cad-d7fb-7d45-4504-1016bae76017" style="opacity:0" role="listitem" class="home-blog-item w-dyn-item">
+					<div data-w-id="e4b01cad-d7fb-7d45-4504-1016bae76017" style="opacity:1" role="listitem" class="home-blog-item w-dyn-item">
 						<article class="home-blog-wrapper"><a href="/blog-posts/choose-right-visa-for-your-journey" class="home-blog-image w-inline-block"><img src="https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/65285c7458160bda3b078c91_pexels-kampus-production-6181092.jpg" loading="lazy" alt="photo" sizes="(max-width: 479px) 30vw, (max-width: 1279px) 31vw, (max-width: 1919px) 372.046875px, 435.65625px" srcset="https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/65285c7458160bda3b078c91_pexels-kampus-production-6181092-p-500.jpg 500w, https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/65285c7458160bda3b078c91_pexels-kampus-production-6181092-p-800.jpg 800w, https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/65285c7458160bda3b078c91_pexels-kampus-production-6181092-p-1080.jpg 1080w, https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/65285c7458160bda3b078c91_pexels-kampus-production-6181092-p-1600.jpg 1600w, https://cdn.prod.website-files.com/651f2c08c5bd81eb296c1823/65285c7458160bda3b078c91_pexels-kampus-production-6181092.jpg 1919w" class="blog-grid-image" /></a>
 							<div class="home-blog-content">
 								<div><a href="/blog-posts/choose-right-visa-for-your-journey" class="w-inline-block">
@@ -855,6 +856,7 @@
 			</div>
 		</div>
 	</div>
+	<x-footer-section></x-footer-section>
 	
 <script>
 document.addEventListener('DOMContentLoaded', function () {
@@ -889,6 +891,6 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 </script>
 	<script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=651f2c08c5bd81eb296c17aa" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
-	<script src="./js/webflow.js" type="text/javascript"></script>
+	<script src="{{asset('js/webflow.js')}}" type="text/javascript"></script>
 </body>
 </html>
